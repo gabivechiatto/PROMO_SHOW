@@ -1,0 +1,22 @@
+.ui-button {
+  background-color: unset;
+  border-radius: 4px;
+  text-decoration: none;
+  padding: 8px 10px;
+  white-space: nowrap;
+}
+
+.ui-button--bordered-green {
+  color: #098019;
+  background-color: white;
+  font-weight: bold;
+  border: 1px solid currentColor; 
+  
+}
+
+.ui-button--contained-green {
+  color: #ffffff;
+  font-weight: bold;
+  background-color: #098019;
+  border: 1px solid #098019;
+}
