@@ -1,4 +1,4 @@
-# PROMO SHOW
+# PROMO 💲HOW
 
 <p>Projeto de e-commerce em React utilizando json-server para consumo de API REST</p>
 
